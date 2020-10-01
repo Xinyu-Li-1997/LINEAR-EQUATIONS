@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "SOLVERS FOR LINEAR EQUATIONS", "SOLVERS FOR LINEAR EQUATIONS\SOLVERS FOR LINEAR EQUATIONS.vfproj", "{E488B59C-4FAC-43A5-9353-99D31CECEB6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E488B59C-4FAC-43A5-9353-99D31CECEB6C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E488B59C-4FAC-43A5-9353-99D31CECEB6C}.Debug|Win32.Build.0 = Debug|Win32
+		{E488B59C-4FAC-43A5-9353-99D31CECEB6C}.Release|Win32.ActiveCfg = Release|Win32
+		{E488B59C-4FAC-43A5-9353-99D31CECEB6C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
